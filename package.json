@@ -1,0 +1,15 @@
+{
+  "name": "bch-address-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bchAddressConverter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shu Kobuchi",
+  "license": "ISC",
+  "dependencies": {
+    "bchaddrjs": "^0.5.2"
+  },
+  "type": "module"
+}
