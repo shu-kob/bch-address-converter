@@ -11,6 +11,6 @@ if (isCashAddress(address)) {
   var legacy_address = toLegacyAddress(address);
   console.log(legacy_address);
 } else if (isLegacyAddress(address)) {
-  var bcash_address = toCashAddress(address);
-  console.log(bcash_address);
+  var cash_address = toCashAddress(address);
+  console.log(cash_address);
 }
